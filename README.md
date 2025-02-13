@@ -18,6 +18,6 @@ samtools index ${OUTBAM1}
 
 ## QC tools used to generate the QC metrics on the BAM:
 
-1) Samtools
-2) Cramino
-3) Nanoplot
+1) Samtools [samtools 1.21]
+2) Cramino [cramino 0.15.0]
+3) Nanoplot [v1.42.0]
