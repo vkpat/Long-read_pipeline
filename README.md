@@ -4,7 +4,7 @@ Notes: We used Pacbio germline and somatic pipeline for the Pacbio-revio data fr
 
 ## Mapping tools and command used in the script:
 
-Minimap2 was used to map uBAM to the three references. The command used for this mapping was received from UCSC lab.
+Minimap2[2.26-r1175] was used to map uBAM to the three references. The command used for this mapping was received from UCSC lab.
 
 samtools fastq \
     -TMM,ML ${UBAM} \
