@@ -1,6 +1,6 @@
 ## This scripts are used for Mapping and QC of the Long-read data inlcuding ONT.
 
-Notes: We used Pacbio germline and somatic pipeline for the Pacbio-revio data from Pacbio and BCM, it only be run on Nisaba due to the requirements. This repo doesnt include information on running the Pacbio germline and somatic pipelines.
+Notes: We used Pacbio germline and somatic pipeline for the Pacbio-revio data from Pacbio and BCM, it only be run on Nisaba due to the requirements. This repo doesn't include information on running the Pacbio germline and somatic pipelines.
 
 ## Mapping tools and command used in the script:
 
